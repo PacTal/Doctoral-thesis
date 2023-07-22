@@ -1,2 +1,6 @@
 # Doctoral-thesis
-In this repository are the programs that allow materializing the learning model in IP. Author: Paco H. Talero L.
+Programs belonging to the thesis: A computational model for the evolution of learning physical micro-contents in peer instruction methodology
+Author: Paco H. Talero L.
+Thesis supervisor: Dr. César Mora Ley
+IPN, centro de Investigación en Ciencia Aplicada y Tecnología Avanzada, Unidad Legaria
+Doctorado en Ciencias en Física Educativa.
